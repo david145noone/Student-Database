@@ -28,5 +28,11 @@ Deployement of container information goes here
 * [Java 8](https://docs.oracle.com/javase/8/docs/) & [Spring Boot](https://spring.io/projects/spring-boot) - For the backend and routing
 * [Gradle](https://docs.gradle.org/current/userguide/userguide.html) - For building and dependency management
 * [mySQL](https://docs.oracle.com/cd/E17952_01/index.html) - Database management system 
-* [Docker](https://docs.docker.com/)
+* [Docker](https://docs.docker.com/) - Dockerfile to launch the containers required for the application
+
+## Resources 
+An assortment of invaluable learning resources that I've used during the course of this project
+
+* [Java Unit Testing with Gradle](https://docs.gradle.org/current/userguide/java_testing.html)
+
 
