@@ -1,4 +1,6 @@
+[![Travis Build Status](https://travis-ci.com/david145noone/Student-Database.svg?branch=master)](https://travis-ci.com/github/david145noone/Student-Database)
 # Student-Database
+
 * The purpose of this application is to create a concrete end-to-end web application that can handle CRUD instructions to a mySQL database. 
 * As part of this project I'm aiming to be able to run some automated testing, write a Dockerfile for the project and use Gradle for the building of the jar file. 
 * Finally the front end will be eventually written in either Vue.js or React.js
