@@ -16,16 +16,25 @@ public class Student {
     }
 
     public void setFirstName(String firstName) {
+
         this.firstName = firstName;
     }
     public void setSName(String surName) {
+
         this.surName = surName;
     }
     public void setStudentNum(int studentNum) {
+
         this.studentNum = studentNum;
     }
 
     public String getFirstName() {
+
         return firstName;
+    }
+
+    public String getSurName() {
+
+        return surName;
     }
 }
