@@ -37,4 +37,9 @@ public class Student {
 
         return surName;
     }
+
+    public int getSNum() {
+
+        return studentNum;
+    }
 }
