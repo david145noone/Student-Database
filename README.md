@@ -16,4 +16,3 @@ An assortment of invaluable learning resources that I've used during the course 
 
 * [Java Unit Testing with Gradle](https://docs.gradle.org/current/userguide/java_testing.html)
 
-
